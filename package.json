@@ -1,6 +1,6 @@
 {
   "name": "remark-embed-frontmatter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Remark plugin to embed front-matter into a document",
   "type": "module",
   "module": "build/module/index.js",
